@@ -28,7 +28,7 @@ fork课程模板仓库（已完成）
 2. 在gitbook上个人教程内新建book.json文件，修改shortname
 3. 个人教程下方 提示 “we were unable to load disqus”（关键性进展！）
 4. 阅读官方troubleshooting guide，逐一排查可能原因 
-5. 找到错误原因： 注册了2个关联域名 但只关联了1个信任站点。 其中1个域名URL输入格式错误
+5. 找到错误原因： 注册了2个关联域名但只关联了1个信任站点。 其中1个域名URL输入格式错误
 6. 删除了错误的关联域名，成功
 
 
