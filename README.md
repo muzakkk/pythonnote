@@ -1,3 +1,4 @@
-It's a toughhhhhhhhh corner
-where muzakkk is marching to dangerous python world... 
+It's a tooooough corner
+
+where muzakkk is marching to a dangerous python world... 
 
