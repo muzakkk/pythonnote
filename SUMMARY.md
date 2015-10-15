@@ -1,4 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
-ello, Thursday midnight~
+* [Introduction](README.md)
+* [week 0](chapter 0.md)
+
