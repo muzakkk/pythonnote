@@ -1,4 +1,4 @@
-"It's a corner full of hardshiop
+"It's a corner full of hardship
 
 where muzakkk is marching to a dangerous python forest..."
 
